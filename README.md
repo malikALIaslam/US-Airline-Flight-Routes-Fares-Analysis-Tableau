@@ -9,6 +9,13 @@ The project analyzes US airline flight routes and fare data from 1993 to 2024. T
 The raw dataset was analyzed and transformed into an interactive Tableau dashboard using calculated fields, KPIs, filters, and data visualizations.
 
 ---
+## 📊 Dataset
+
+The original dataset is large and is not included in this repository.
+
+Dataset: US Airline Flight Routes and Fares (1993–2024)
+
+The dataset contains 245,955 records and 23 columns.
 
 # 🎯 Project Objectives
 
